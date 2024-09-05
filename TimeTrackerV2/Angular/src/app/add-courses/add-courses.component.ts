@@ -2,6 +2,8 @@ import { Component, OnInit } from '@angular/core';
 import { HttpClient, HttpHeaders } from '@angular/common/http';
 import { Router } from '@angular/router';
 
+//Testing testing 123 
+
 @Component({
   selector: 'app-add-courses',
   templateUrl: './add-courses.component.html',
