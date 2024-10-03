@@ -30,10 +30,12 @@
 
 .box-head {
   color: white;
-  letter-spacing: 3px;
+  letter-spacing: 1px;
+  padding: 5px;
+  border-radius: 15px;
   /* box behind text */
   display: inline-block;
-  box-shadow: -8px 8px 2px #492365;
+  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
   background-color: #6e4097;
 }
 
